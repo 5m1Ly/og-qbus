@@ -1,5 +1,7 @@
 > **Note** I haven't fully uploaded the contents of the server yet due to copyrighted materials within mlo's or other contents.
 
+> **Warning** I've uploaded the contents of this repository not for you to run a server based on it, you shouldn't anyway sids a lot of code is outdated.
+
 # OG Qbus
 This is a the original copy of the qbus framework code.
 
