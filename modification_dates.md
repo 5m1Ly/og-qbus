@@ -1,10 +1,10 @@
 # All files and modification dates in the server/resources directory
 
-> **Some stats of the resources directory:**
-> files: 11803
-> directories: 788
+> **Some stats of the resources directory:**<br/>
+> files: 11803<br/>
+> directories: 788<br/>
 >
-> catagories: 52
+> catagories: 52<br/>
 > resources: 244
 >
 > size: 6.63gb
