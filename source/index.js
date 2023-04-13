@@ -69,8 +69,7 @@ function gatherResourceInfo(current = 'server/resources', resource = null, resou
 
 }
 
-const resources = gatherResourceInfo().sort((r1, r2) => (r1.modifications.latest - r2.modifications.latest));
-
+const resources = gatherResourceInfo().sort((r1, r2) => (r1.modifications.oldest - r2.modifications.oldest));
 
 let markdown = `# All files and modification dates in the server/resources directory
 
@@ -86,7 +85,7 @@ let markdown = `# All files and modification dates in the server/resources direc
 > time format: Central European Summer Time (CEST, GMT+2)
 
 | resource | files         | size | latest modification | oldest modification |
-| :------- | ------------: | ---: | :-----------------: | :------------ |`;
+| :------- | ------------: | ---: | ------------------: | ------------------: |`;
 
 const gigabyte = 1000000000;
 const megabyte = 1000000;
