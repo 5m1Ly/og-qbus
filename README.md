@@ -21,7 +21,7 @@ I've decided to upload the project due to the commotion and discussion around th
 >
 > time format: Central European Summer Time (CEST, GMT+2)
 
-> **Note** You could say that the oldest modification date is a rought estimate of the time period when a resource was added to the project.
+> **Note** You could say that the oldest modification date is a rought estimate of the time period when a resource was added to the project. So in this case it would confirm [this post](https://forum.cfx.re/t/can-we-upload-customs-jobs-for-leaked-qbus-on-the-release-forums/1870193/21?u=5m1ly) made by KASH, like the data on the qb-core resource states below.
 
 | resource | files         | size | latest modification | oldest modification |
 | :------- | ------------: | ---: | ------------------: | ------------------: |
