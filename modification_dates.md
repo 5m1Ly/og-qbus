@@ -12,7 +12,7 @@
 > time format: Central European Summer Time (CEST, GMT+2)
 
 | resource | files         | size | latest modification | oldest modification |
-| :------- | ------------: | ---: | :-----------------: | :------------ |
+| :------- | ------------: | ---: | ------------------: | ------------------: |
 | debug | 3 | 1.61kb | Aug 16, 2018 | Aug 16, 2018 |
 | fivem-map-hipster | 2 | 4.51kb | Jun 5, 2019 | Jun 5, 2019 |
 | hardcap | 3 | 904b | Jun 5, 2019 | Jun 5, 2019 |
