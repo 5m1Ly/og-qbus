@@ -1,4 +1,4 @@
->*note* I haven't fully uploaded the contents of the server yet due to copyrighted materials within mlo's or other contents.
+> **Note** I haven't fully uploaded the contents of the server yet due to copyrighted materials within mlo's or other contents.
 
 # OG Qbus
 This is a the original copy of the qbus framework code.
