@@ -1,2 +1,5 @@
 cache/
-resources/
+resources/\[assets\]/
+resources/\[cars\]/
+resources/\[map\]/
+resources/\[vehicles\]/
