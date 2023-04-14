@@ -9,7 +9,6 @@ I've decided to upload the project due to the commotion and discussion around th
 
 ## All resources and their modification dates
 
-
 > **Some stats of the resources directory:**<br/>
 > files: 11803<br/>
 > directories: 788<br/>

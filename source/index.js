@@ -90,7 +90,6 @@ let markdown = `# All files and modification dates in the server/resources direc
 const gigabyte = 1000000000;
 const megabyte = 1000000;
 const kilobyte = 1000;
-const byte = 1;
 
 for (const resource of resources) {
 
